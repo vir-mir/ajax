@@ -37,3 +37,4 @@ ajax.<method>(<url>,[data],[options])
 		// Always run
 	 });
 ```
+
